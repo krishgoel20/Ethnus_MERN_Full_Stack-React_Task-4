@@ -39,7 +39,7 @@ const Records = () => {
                                 <th>First Name</th>
                                 <th>Last Name</th>
                                 <th>Gender</th>
-                                <th>Email</th>
+                                <th>E-mail</th>
                                 <th>Username</th>
                                 <th>Domain</th>
                                 <th>IP</th>
